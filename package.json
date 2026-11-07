@@ -1,0 +1,16 @@
+{
+  "name": "google-dream",
+  "version": "2026.11.0",
+  "description": "From Guadeloupe to Googleplex: Stargardt warrior journey, Chromium/AOSP origins, Google Cloud mastery, assistive AI tech & sovereign Bun stack.",
+  "scripts": {
+    "test": "bun test",
+    "check": "bun check",
+    "lint": "bun lint"
+  },
+  "trustedDependencies": [
+    "@types/bun"
+  ],
+  "devDependencies": {
+    "@types/bun": "^1.2.4"
+  }
+}
