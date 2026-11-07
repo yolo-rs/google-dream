@@ -10,7 +10,7 @@
 ---
 
 ## Executive Summary
-High-intensity systems architect and software engineer with a 9-year self-taught track record starting from source-compiling AOSP and Chromium OS on legacy hardware. Diagnosed with Stargardt juvenile macular dystrophy (monocular vision), converted accessibility constraints into cutting-edge assistive OS kernels, high-contrast WebGPU renderers, and zero-latency audio-vision AI engines. Expert in Upstream Bun (v1.4.4+), Rust 2024, Go, and the entire Google Cloud ecosystem.
+High-intensity systems architect and software engineer with a 9-year self-taught track record starting from source-compiling AOSP and Chromium OS on legacy hardware. Diagnosed with Stargardt juvenile macular dystrophy (monocular vision), converted accessibility constraints into current assistive OS kernels, high-contrast WebGPU renderers, and zero-latency audio-vision AI engines. Expert in Upstream Bun (v1.4.4+), Rust 2024, Go, and the entire Google Cloud ecosystem.
 
 ---
 
