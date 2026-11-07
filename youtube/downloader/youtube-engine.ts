@@ -22,7 +22,7 @@ export class YouTubeEngine {
       });
       clearTimeout(id);
       if (res.ok) {
-        const data = await res.json() as any;
+        const data = (await res.json()) as { title?: string; author?: string; lengthSeconds?: number };
         return {
           videoId,
           title: data.title || "Untitled",
